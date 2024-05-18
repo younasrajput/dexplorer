@@ -49,15 +49,15 @@ const LinkItems: Array<LinkItemProps> = [
 ]
 const RefLinkItems: Array<LinkItemProps> = [
   {
-    name: 'Github',
+    name: 'Faucet',
     icon: FiGithub,
-    route: 'https://github.com/arifintahu/dexplorer',
+    route: 'https://faucet.testnet.initia.xyz/',
     isBlank: true,
   },
   {
-    name: 'Report Issues',
+    name: 'Initia Wallet',
     icon: FiAlertCircle,
-    route: 'https://github.com/arifintahu/dexplorer/issues',
+    route: 'https://chromewebstore.google.com/detail/initia-wallet/ffbceckpkpbcmgiaehlloocglmijnpmp',
     isBlank: true,
   },
 ]
